@@ -11,6 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rana-Paul&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rana-Paul&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Rana-Paul&icon=0&color=0)](https://portfolio-888ubaxcl-rana-pauls-projects.vercel.app/)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
